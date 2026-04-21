@@ -1,4 +1,4 @@
-# Utilify MCP Server — Compare & Sign Up for Texas Utilities from Any AI Agent
+# Utilify MCP Server — Compare & Sign Up for Texas Utilities from Any AI Agent  (more states coming)
 
 [![MCP Server](https://img.shields.io/badge/MCP-server-blue)](https://modelcontextprotocol.io)
 [![OpenAPI 3.1](https://img.shields.io/badge/OpenAPI-3.1-green)](https://utilify.io/openapi.json)
