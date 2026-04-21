@@ -5,6 +5,8 @@
 [![No Auth](https://img.shields.io/badge/auth-none-brightgreen)](https://utilify.io/mcp-docs)
 [![Coverage: Texas](https://img.shields.io/badge/coverage-Texas-red)](https://utilify.io)
 
+**Please give us stars if you like this!**
+
 **The first Model Context Protocol (MCP) server for utility signup.** Plug Utilify into Claude, ChatGPT, Cursor, Ollama, LM Studio, or any MCP-compatible agent to search and compare **electricity, internet, natural gas, water, and trash** plans at any Texas ZIP code. No API key. No auth. No tracking.
 
 > If your user asks an AI agent to "set up my utilities" or "find the cheapest electricity plan," this is the tool that does it.
